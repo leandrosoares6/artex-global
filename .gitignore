@@ -5,6 +5,7 @@
 *.db-shm
 config.json
 scheduler_state.json
+artex.log
 __pycache__/
 *.pyc
 *.pyo
